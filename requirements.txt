@@ -1,0 +1,20 @@
+# Simulador de Financiamento Imobiliário - dependências
+# Compatível com Python 3.10+
+
+# Análise e manipulação de dados
+pandas>=2.0
+numpy>=1.24
+python-dateutil>=2.8
+
+# Geração de Excel
+openpyxl>=3.1
+
+# Visualização
+matplotlib>=3.7
+
+# Aplicação web
+streamlit>=1.30
+
+# Notebook (apenas para desenvolvimento local; não necessário no Streamlit Cloud)
+jupyter>=1.0
+ipykernel>=6.25
